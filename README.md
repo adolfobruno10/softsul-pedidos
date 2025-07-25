@@ -272,9 +272,9 @@ softsul-pedidos-mobile/
 
 ## Autor
 
-Desenvolvido por **Manus AI** como parte do desafio técnico da Softsul Sistemas.
+Desenvolvido por **Adolfo Bruno Sousa** como parte do desafio técnico da Softsul Sistemas.
 
 ## Licença
 
-Este projeto é propriedade da Softsul Sistemas e foi desenvolvido exclusivamente para fins de avaliação técnica.
+Este projeto é propriedade de Adolfo Bruno e foi desenvolvido exclusivamente para fins de avaliação técnica.
 
